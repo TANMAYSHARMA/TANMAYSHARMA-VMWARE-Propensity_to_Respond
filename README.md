@@ -1,1 +1,2 @@
-# TANMAYSHARMA-VMWARE-Propensity_to_Respond
+# VMWare-Propensity-to-respond-model
+This is a solution to Harvard business review case study on improving customer engagement at VMware. It is a multi-class classification problem and the data comprises of historical data on customers' purchase behavior, campaign-specific transaction data and customer activity data. During the course of the project I used various techniques on exploratory data analysis, feature engineering and class-balancing. I trained Random Forest, Regularized Logistic regression and Gradient Boosting models to predict customers’ propensity to respond to VMware marketing efforts and evaluated models using cross-validation. 
